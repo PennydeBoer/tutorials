@@ -1,24 +1,9 @@
 fileFormatVersion: 2
-guid: 6cb79922b7eaea349a9324fe415cd1ef
+guid: df7092687f0efac45bb490089d9f185c
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: maria_diffuse
-    second: {fileID: 2800000, guid: 761b78e0dd31cc84da25325f1512470e, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: maria_normal
-    second: {fileID: 2800000, guid: 067a5a87e92695041a4ad1d28cc362ee, type: 3}
-  - first:
-      type: UnityEngine:Texture2D
-      assembly: UnityEngine.CoreModule
-      name: maria_specular
-    second: {fileID: 2800000, guid: 481c9a88f62ee5b4a80848ae04d8feda, type: 3}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -48,11 +33,11 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Great Sword Idle
+      name: Great Sword Walk
       takeName: mixamo.com
       internalID: -203655887218126122
       firstFrame: 0
-      lastFrame: 60
+      lastFrame: 41
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
