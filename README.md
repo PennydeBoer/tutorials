@@ -3,7 +3,7 @@
 Ik heb ervoor gezorgd dat de cube lanceerd met de spatie knop  
 [script](M3BOtutorials/Assets/Scripts/LaunchCube.cs)
 # Tutorial 1 animatie trigger
-![tutorial animatie trigger gif](GIFs/AnimatieDance.gif) 
+![tutorial animatie trigger gif](GIFs/AnimatieDance.gif)   
 Ik heb ervoor gezorgd dat de karakter kan dansen met een muisklik  
 [script](M3BOtutorials/Assets/Scripts/Animatie.cs) 
 # Tutorial 2 animatie + movement
