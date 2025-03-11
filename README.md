@@ -10,3 +10,7 @@ Ik heb ervoor gezorgd dat de karakter kan dansen met een muisklik
 ![tutorial animatie + movement gif](GIFs/AnimatieMovement.gif)  
 ik heb een script gemaakt met movement zonder rotatie  
 [script](M3BOtutorials/Assets/Scripts/NoRotationMovement.cs)
+# Tutorial 3 platformer
+![tutorial platformer](GIFs/Platform.gif)  
+ik heb een platformer gebouwt met een makkelijk jump script  
+[script](M3BOtutorials/Assets/Scripts/Jump.cs)
