@@ -14,3 +14,8 @@ ik heb een script gemaakt met movement zonder rotatie
 ![tutorial platformer](GIFs/Platform.gif)  
 ik heb een platformer gebouwt met een makkelijk jump script  
 [script](M3BOtutorials/Assets/Scripts/Jump.cs)
+# Tutorial 4 Pickups  
+![tutorial pickups](GIFs/Pickup.gif)  
+ik heb een pickup gemaakt met een score ui  
+[Pickup script](M3BOtutorials/Assets/Scripts/GetPickup.cs)
+[UI script](M3BOtutorials/Assets/Scripts/KeepScore.cs)
