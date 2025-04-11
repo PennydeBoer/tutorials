@@ -18,4 +18,9 @@ ik heb een platformer gebouwt met een makkelijk jump script
 ![tutorial pickups](GIFs/Pickup.gif)  
 ik heb een pickup gemaakt met een score ui  
 [Pickup script](M3BOtutorials/Assets/Scripts/GetPickup.cs)
-[UI script](M3BOtutorials/Assets/Scripts/KeepScore.cs)
+[UI script](M3BOtutorials/Assets/Scripts/KeepScore.cs)  
+# Tutorial 5 Schieten  
+![tutorial schieten](GIFs/Schieten.gif)  
+ik heb een schiet script en een explosie script gemaakt  
+[explosie script](M3BOtutorials/Assets/Scripts/Explosion.cs)
+[Schiet script](M3BOtutorials/Assets/Scripts/enemyhit.cs)
